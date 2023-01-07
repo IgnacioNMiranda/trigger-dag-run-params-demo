@@ -7,7 +7,7 @@ Apache Airflow demo project that setup 3 DAGs to explain how to pass parameters 
 
 This project was generated using 'astro dev init' using the Astronomer CLI. This readme describes the contents of the project, as well as how to run Apache Airflow on your local machine.
 
-[Click here]() to visit the blog post associated with this repository.
+[Click here](https://igna.hashnode.dev/passing-params-from-an-apache-airflow-dag-to-triggered-dags-using-triggerdagrunoperator) to visit the blog post associated with this repository.
 
 ## Project Contents
 
